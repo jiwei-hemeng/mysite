@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "myBlob",
+  title: "mysite",
   description: "个人网站",
   base: "/myBlob/",
   themeConfig: {
